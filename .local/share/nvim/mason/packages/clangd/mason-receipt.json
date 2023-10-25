@@ -1,0 +1,1 @@
+{"schema_version":"1.1","links":{"share":{},"opt":{},"bin":{"clangd":"clangd_16.0.2\/bin\/clangd"}},"metrics":{"completion_time":1698238107062,"start_time":1698236289283},"secondary_sources":[],"primary_source":{"id":"pkg:github\/clangd\/clangd@16.0.2","type":"registry+v1"},"name":"clangd"}
